@@ -1,4 +1,7 @@
-
+// Student Name: Yoane Sebastião
+// Student Number: ST10543853
+// Module: IMAD5112
+// Project: Spending Tracker
 package com.yoane.spendingtracker
 
 import android.os.Bundle
