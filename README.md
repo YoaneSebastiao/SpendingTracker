@@ -68,3 +68,21 @@ Higher Certificate in Mobile Application
 ## Repository
 
 [Spending Tracker – GitHub](https://github.com/YoaneSebastiao/SpendingTracker)
+
+## Application Screenshots
+
+### 1. Splash Screen
+
+![Splash Screen](Screenshot_20261109_105328.png)
+
+### 2. Main Screen
+
+![Main Screen](Screenshot_20261109_105432.png)
+
+### 3. View All Spending
+
+![View All Spending](Screenshot_20261109_105516.png)
+
+### 4. Budget Calculation
+
+![Budget Calculation](Screenshot_20261109_105600.png)
